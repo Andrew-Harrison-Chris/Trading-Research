@@ -1,0 +1,2 @@
+# Trading-Research
+Trading ideas
